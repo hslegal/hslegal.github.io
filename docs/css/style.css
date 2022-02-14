@@ -227,7 +227,7 @@ header .intro-text {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#features i.fa {
+#features i.fa-solid {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
@@ -308,7 +308,7 @@ header .intro-text {
 	margin-left: -30px;
 	left: 50%;
 }
-#services i.fa {
+#services i.fa-solid {
 	font-size: 42px;
 	width: 120px;
 	height: 120px;
@@ -530,7 +530,7 @@ color: #777;
 	margin-bottom: 10px;
 	display: block;
 }
-#contact .contact-item i.fa {
+#contact .contact-item i.fa-solid {
 	margin-right: 10px;
 }
 #contact .social {
@@ -543,7 +543,7 @@ color: #777;
 	display: inline-block;
 	margin: 0 20px;
 }
-#contact .social i.fa {
+#contact .social i.fa-brands {
 	font-size: 22px;
 	width: 48px;
 	height: 48px;
@@ -553,7 +553,7 @@ color: #777;
 	border-radius: 50%;
 	transition: all 0.3s;
 }
-#contact .social i.fa:hover {
+#contact .social i.fa-brands:hover {
 	color: #608dfd;
 	background: #fff;
 }
