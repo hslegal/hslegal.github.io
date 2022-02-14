@@ -21,17 +21,17 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-copyright",
+            "icon": "fa-solid fa-copyright",
             "name": "Copyrights",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-award",
+            "icon": "fa-solid fa-award",
             "name": "Patents",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-trademark",
+            "icon": "fa-solid fa-trademark",
             "name": "Trademark",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
@@ -70,12 +70,12 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/03.jpg",
             "name": "Hiloni Chheda",
             "job": "Designation"
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/04.jpg",
             "name": "Sanya Jhaveri",
             "job": "Designation"
         }
@@ -89,22 +89,22 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
+            "icon": "fa-solid fa-comments-o",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-bullhorn",
+            "icon": "fa-solid fa-bullhorn",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-group",
+            "icon": "fa-solid fa-group",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-magic",
+            "icon": "fa-solid fa-magic",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         }

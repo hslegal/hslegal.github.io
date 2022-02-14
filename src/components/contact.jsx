@@ -102,7 +102,7 @@ export const Contact = (props) => {
               <h3>Contact Info</h3>
               <p>
                 <span>
-                  <i className='fa fa-map-marker'></i> Address
+                  <i className='fa-solid fa-map-marker'></i> Address
                 </span>
                 {props.data ? props.data.address : 'loading'}
               </p>
@@ -110,7 +110,7 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-phone'></i> Phone
+                  <i className='fa-solid fa-phone'></i> Phone
                 </span>{' '}
                 {props.data ? props.data.phone : 'loading'}
               </p>
@@ -118,7 +118,7 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-envelope-o'></i> Email
+                  <i className='fa-solid fa-envelope'></i> Email
                 </span>{' '}
                 {props.data ? props.data.email : 'loading'}
               </p>
@@ -130,17 +130,17 @@ export const Contact = (props) => {
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
+                      <i className='fa-brands fa-facebook'></i>
                     </a>
                   </li>
                   <li>
                     <a href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
+                      <i className='fa-brands fa-twitter'></i>
                     </a>
                   </li>
                   <li>
                     <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                      <i className='fa-brands fa-youtube'></i>
                     </a>
                   </li>
                 </ul>
