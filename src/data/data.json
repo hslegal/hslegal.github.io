@@ -1,12 +1,13 @@
 {
     "Header": {
 
-        "title": "Welcome to HS Legal",
+        "title1": "Welcome to",
+        "title2": "HS Legal",
         "paragraph": "We are a Mumbai-based law firm providing legal services exclusively for startups."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "To give you personalized attention and cater to your needs, we are a team of individuals who will be dedicated day and night. Our legal passion and experience in law firms has driven us to start this and make it big by helping clients to get what they have come for. Our mission is to be a fast paced and work systematically. We want to be the top advisory and consultancy firms and we strongly believe that your trust in us will help us reach great heights. While IPR and general corporate and advisory services has been the core of the Firm’s practice, we have actively diversified our spectrum of service offerings, with high-caliber individuals with experience across practice areas and industry sectors.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -21,18 +22,33 @@
         ]
     },
     "Services": [{
+            "icon": "fa-solid fa-building",
+            "name": "Corporate/Commercial Advisory",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
             "icon": "fa-solid fa-copyright",
-            "name": "Copyrights",
+            "name": "Intellectual Property Rights",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa-solid fa-award",
-            "name": "Patents",
+            "icon": "fa-solid fa-comments",
+            "name": "General Advisory Services",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa-solid fa-trademark",
-            "name": "Trademark",
+            "icon": "fa-solid fa-money-check-dollar",
+            "name": "Bankruptcy and Arbitration Proceedings",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa-solid fa-scroll",
+            "name": "Testamentary Matters",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa-solid fa-building-columns",
+            "name": "Corporate Law",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
 
@@ -71,13 +87,13 @@
     ],
     "Team": [{
             "img": "img/team/03.jpg",
-            "name": "Hiloni Chheda",
-            "job": "Designation"
+            "name": "Hi, this is Hiloni Chheda",
+            "bio": "An enthusiastic and professional advocate currently pursuing masters in corporate law with variety of experience in IPR, Corporate law, Property Law, IBC, Testamentary matters and drafting & vetting of various legal documents."
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Sanya Jhaveri",
-            "job": "Designation"
+            "name": "Hi, this is Sanya Jhaveri",
+            "bio": "She is a Pharmacy and Law graduate. She has great zeal for IP and tax laws and has filed plenty of trademarks and copyrights in India and the US."
         }
     ],
     "Contact": {
