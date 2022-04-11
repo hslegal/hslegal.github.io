@@ -22,37 +22,60 @@
         ]
     },
     "Services": [{
-            "icon": "fa-solid fa-building",
-            "name": "Corporate/Commercial Advisory",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa-solid fa-comments",
+            "name": "General Advisory Services",
+            "text": [
+                "General Counselling and Advisory on Legal Issues",
+                "Will and Probate, Succession/Legal Heir Certificates",
+                "Drafting and Vetting of Legal Documents",
+                "Affidavits and NOCs",
+                "Gift Deeds"
+            ]
+        },
+        {
+            "icon": "fa-solid fa-building-columns",
+            "name": "Corporate Advisory",
+            "text": [
+                "Dispute Resolution - Arbitration, Mediation",
+                "Drafting Corporate Contracts/Agreements",
+                "Banking and Finance",
+                "Insolvency Laws",
+                "General Corporate Law"
+            ]
         },
         {
             "icon": "fa-solid fa-copyright",
             "name": "Intellectual Property Rights",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa-solid fa-comments",
-            "name": "General Advisory Services",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": [
+                "IPR Matters Such As:",
+                "Trademarks",
+                "Copyrights",
+                "Patents",
+                "Designs"
+            ]
         },
         {
             "icon": "fa-solid fa-money-check-dollar",
-            "name": "Bankruptcy and Arbitration Proceedings",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Tax",
+            "text": [
+                "Indirect Tax",
+                "Customs Laws and FTP"
+            ]
         },
         {
-            "icon": "fa-solid fa-scroll",
-            "name": "Testamentary Matters",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa-solid fa-building",
+            "name": "Property",
+            "text": [
+                "Property-Related Matters"
+            ]
         },
         {
-            "icon": "fa-solid fa-building-columns",
-            "name": "Corporate Law",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa-solid fa-plus-circle",
+            "name": "And More",
+            "text": [
+                ""
+            ]
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",

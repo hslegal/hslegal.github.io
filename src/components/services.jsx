@@ -16,7 +16,15 @@ export const Services = (props) => {
                   <i className={d.icon}></i>
                   <div className='service-desc'>
                     <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                    <div className='list-style'>
+                    <ul>
+                    {d.text
+                      ? d.text.map((d_, i_) => (
+                          <li key={`${d_}-${i_}`}>{d_}</li>
+                        ))
+                      : 'loading'}
+                    </ul>
+                    </div>
                   </div>
                 </div>
               ))

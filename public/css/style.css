@@ -323,7 +323,7 @@ header .intro-text {
 	padding: 5px 0;
 	color: #fff;
 }
-#services p {
+#services ul {
 	color: rgba(255,255,255,.75);
 }
 #services .service-desc {
