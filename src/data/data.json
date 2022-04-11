@@ -3,7 +3,7 @@
 
         "title1": "Welcome to",
         "title2": "HS Legal",
-        "paragraph": "We are a Mumbai-based law firm providing legal services exclusively for startups."
+        "paragraph": "We are a Mumbai-based law firm providing a variety of legal services."
 
     },
     "About": {
@@ -120,8 +120,9 @@
         }
     ],
     "Contact": {
-        "address": "xxx, xxx, Mumbai",
-        "phone": "+1 123 456 1234",
+        "address": "Fort, Mumbai",
+        "phone": "+91 9619452121",
+        "phone2": "+91 9004180650",
         "email": "hslegalinfo@gmail.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
